@@ -1,0 +1,117 @@
+{
+    "NP-AMS-02": {
+        "QueuePosition": 120,
+        "Last Updated": 1703814338,
+        "Region": "EU"
+    },
+    "NP-LON-03": {
+        "QueuePosition": 107,
+        "Last Updated": 1703814384,
+        "Region": "EU"
+    },
+    "NP-PAR-02": {
+        "QueuePosition": 132,
+        "Last Updated": 1703814375,
+        "Region": "EU"
+    },
+    "NP-PAR-03": {
+        "QueuePosition": 131,
+        "Last Updated": 1703814380,
+        "Region": "EU"
+    },
+    "NP-LON-04": {
+        "QueuePosition": 132,
+        "Last Updated": 1703814388,
+        "Region": "EU"
+    },
+    "NP-FRK-04": {
+        "QueuePosition": 154,
+        "Last Updated": 1703814367,
+        "Region": "EU"
+    },
+    "NP-FRK-05": {
+        "QueuePosition": 132,
+        "Last Updated": 1703814371,
+        "Region": "EU"
+    },
+    "NP-STH-02": {
+        "QueuePosition": 155,
+        "Last Updated": 1703814392,
+        "Region": "EU"
+    },
+    "NP-SOF-01": {
+        "QueuePosition": 153,
+        "Last Updated": 1703814397,
+        "Region": "EU"
+    },
+    "NP-AMS-03": {
+        "QueuePosition": 121,
+        "Last Updated": 1703814342,
+        "Region": "EU"
+    },
+    "NP-DAL-02": {
+        "QueuePosition": 440,
+        "Last Updated": 1703814428,
+        "Region": "NA"
+    },
+    "NP-DAL-03": {
+        "QueuePosition": 425,
+        "Last Updated": 1703814434,
+        "Region": "NA"
+    },
+    "NP-ASH-03": {
+        "QueuePosition": 352,
+        "Last Updated": 1703814438,
+        "Region": "NA"
+    },
+    "NP-CHI-03": {
+        "QueuePosition": 310,
+        "Last Updated": 1703814443,
+        "Region": "NA"
+    },
+    "NP-NWK-02": {
+        "QueuePosition": 351,
+        "Last Updated": 1703814448,
+        "Region": "NA"
+    },
+    "NP-LAX-02": {
+        "QueuePosition": 286,
+        "Last Updated": 1703814323,
+        "Region": "NA"
+    },
+    "NP-SJC6-02": {
+        "QueuePosition": 300,
+        "Last Updated": 1703814334,
+        "Region": "NA"
+    },
+    "NP-MON-01": {
+        "QueuePosition": 315,
+        "Last Updated": 1703814402,
+        "Region": "CA"
+    },
+    "NP-PDX-02": {
+        "QueuePosition": 246,
+        "Last Updated": 1703814307,
+        "Region": "NA"
+    },
+    "NP-ATL-02": {
+        "QueuePosition": 355,
+        "Last Updated": 1703814312,
+        "Region": "NA"
+    },
+    "NP-MIA-02": {
+        "QueuePosition": 367,
+        "Last Updated": 1703814317,
+        "Region": "NA"
+    },
+    "NP-PHX-01": {
+        "QueuePosition": 316,
+        "Last Updated": 1703814328,
+        "Region": "NA"
+    },
+    "NP-AMS-04": {
+        "QueuePosition": 138,
+        "Last Updated": 1703814346,
+        "Region": "EU"
+    }
+}
